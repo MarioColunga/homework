@@ -1,8 +1,10 @@
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
 
 body {
     background-color: #d9dcd6;
@@ -15,6 +17,7 @@ body {
     color: #ffffff;
 }
 
+/*horiseon */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -49,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*background with the image */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +72,7 @@ p {
     margin-left: 25px;
 }
 
+/*style of the content*/
 .content {
     width: 75%;
     display: inline-block;
